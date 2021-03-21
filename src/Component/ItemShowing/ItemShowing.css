@@ -1,0 +1,27 @@
+.meal img{
+    width: 100%;
+    border-radius: 3px;
+    transition: transform .2s;
+}
+.meal {
+    width: 100%;
+    padding: 20px;
+}
+.meal-container{
+    border: 1.5px solid rgb(117, 69, 69);
+    margin: 10px;
+}
+.meal img:hover{
+    transform: scale(1.1);
+}
+.main-btn{
+    background-color: rgb(58, 48, 48);
+    outline: none;
+    border:none;
+}
+.source-btn{
+    margin-top: -25px;
+}
+h2 {
+    font-family: cursive;
+}
